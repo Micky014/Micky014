@@ -7,6 +7,7 @@
 ### 🖥 Tecnologías y sistemas
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624) 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![express](https://img.shields.io/badge/express-000?&logo=express)
 
 ### 📂 Proyectos
 <!--- futuro proyecto:
