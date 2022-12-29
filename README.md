@@ -9,4 +9,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
 ### 📂 Proyectos
-[![ImperioRP](https://img.shields.io/badge/ImperioRP-black)](https://discord.gg/imperiorp)
+<!--- futuro proyecto:
+[![mickydev.com](link imagen)](https://mickydev.com)
+-->
