@@ -1,3 +1,5 @@
+# Hi there 👋
+
 # 💻 Tech Stack
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -16,8 +18,7 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Micky014&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Micky014&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Micky014&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Micky014&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 👤 Discord Presence
