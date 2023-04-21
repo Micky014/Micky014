@@ -13,4 +13,4 @@
 <!--- futuro proyecto:
 [![mickydev.com](link imagen)](https://mickydev.com)
 -->
-[![pygofile](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=4479A1)](https://github.com/Micky014/pygofile)
+[![pygofile](https://img.shields.io/badge/-pygofile-000?&logo=Python&logoColor=4479A1)](https://github.com/Micky014/pygofile)
